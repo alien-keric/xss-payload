@@ -1,2 +1,2 @@
 # xss-payload
-different xss payloads 
+different xss payloads which can be used to test xss injection vulnerability
